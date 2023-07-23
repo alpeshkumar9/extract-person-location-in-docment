@@ -21,7 +21,7 @@ You can use Docker Compose to run the application inside a Docker container. Fol
    <pre>docker-compose up -d --build</pre>
 5. The application will now be accessible at http://localhost:8080.
 
-**NOTE:** en_core_web_lg is large file to it may take a while to download
+**NOTE:** en_core_web_lg is large file so it may take a while to download
 
 ## Endpoints
 
